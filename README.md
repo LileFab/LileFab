@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.png)My name is Fabien F
+Hi 🙋‍♂️My name is Fabien F
 ================================================================================================================================
 
 Data & Software Engineer
@@ -9,7 +9,7 @@ I graduated with a data engineering degree and I have been working for 4 years a
 * 🌍  I'm based in Lyon, France
 * 🖥️  See my portfolio at [fabien.fleisch.fr](http://fabien.fleisch.fr)
 * ✉️  You can contact me at [fabien@fleisch.fr](mailto:fabien@fleisch.fr)
-* 🧠  I'm learning VueJS with Deno🦖
+* 🧠  I'm learning VueJS with Deno 🦕
 
 ### Skills
 
