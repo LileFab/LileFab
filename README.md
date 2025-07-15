@@ -9,7 +9,6 @@ I graduated with a data engineering degree and I have been working for 4 years a
 * 🌍  I'm based in Lyon, France
 * 🖥️  See my portfolio at [fabien.fleisch.fr](http://fabien.fleisch.fr)
 * ✉️  You can contact me at [fabien@fleisch.fr](mailto:fabien@fleisch.fr)
-* 🧠  I'm learning VueJS with Deno 🦕
 
 ### Skills
 
